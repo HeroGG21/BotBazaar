@@ -1,2 +1,2 @@
 # BotBazaar
-Business Rule
+## Business Rule
