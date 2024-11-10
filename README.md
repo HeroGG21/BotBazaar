@@ -1,5 +1,4 @@
 # BotBazaar
 ## Business Rule
-## 1.Admin
-vfvsfvsfv
-dvsfvsfvs
+## 1.Admin 
+bvfvvsvs
