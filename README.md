@@ -1,3 +1,5 @@
 # BotBazaar
-## Business Rules
-1.
+## Business Rule
+## 1.Admin
+vfvsfvsfv
+dvsfvsfvs
