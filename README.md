@@ -1,13 +1,13 @@
 # BotBazaar
 ## Business Rule
 ## 1.	Admin
-•	Attributes: admin_id, user_id, admin_name, email, password, phone_number, address.
-•	An admin manages users, products, and platform settings.
-•	An admin can add, delete, and update user as well as vendor accounts.
-•	An admin has permission to generate reports and access user profile management.
-•	Only an admin can approve new vendor registrations and the addition of new products.
-•	Uniqueness: Admin must have a unique email and phone_number.
-•	Mandatory: admin_id, user_id, admin_name, email, password, phone_number and address.
+-	Attributes: admin_id, user_id, admin_name, email, password, phone_number, address.
+-	An admin manages users, products, and platform settings.
+-	An admin can add, delete, and update user as well as vendor accounts.
+-	An admin has permission to generate reports and access user profile management.
+- Only an admin can approve new vendor registrations and the addition of new products.
+- Uniqueness: Admin must have a unique email and phone_number.
+-	Mandatory: admin_id, user_id, admin_name, email, password, phone_number and address.
 
 ## 2.	User
 •	Attributes: user_id, user_name, email, password, phone_number, address, role, date_joined.
