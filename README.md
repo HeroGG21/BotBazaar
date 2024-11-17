@@ -89,5 +89,5 @@
 - Attributes: discount_id, discount_code, product_id, discount_percentage, usage_limit, code_expiry_date.
 - Providing users with discount coupons and codes.
 - A discount can be applied to multiple products, but each product can have only one active discount at a time.
-- Uniqueness: Each discount must have a unique discount_code.
+- Uniqueness: Each discount must have a unique discount_id.
 - Mandatory: discount_id, discount_code, product_id, discount_percentage, usage_limit, code_expiry_date.
